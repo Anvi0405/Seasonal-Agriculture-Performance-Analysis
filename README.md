@@ -1,2 +1,3 @@
 # Seasonal-Agriculture-Performance-Analysis
+This project aims to analyze agricultural performance across different seasons to identify meaningful patterns, variations, and relationships in crop yield, resource utilization, production, and profitability. The objective is to use data-driven analysis to understand seasonal agricultural trends and derive insights that can support better agricultural planning and decision-making.
 Seasonal Agriculture Analysis using Python, Pandas, NumPy, Matplotlib, Seaborn, and SciPy to explore seasonal patterns, yield, water efficiency, profit, correlations, outliers, and statistical differences across Kharif, Rabi, and Zaid seasons.
